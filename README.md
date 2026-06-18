@@ -52,7 +52,7 @@ This project demonstrates how to receive characters through the USART module of 
 - **Transmission and reception**: Enabled
 
 ## 🖼️ Schematic
-![Schematic](usat-lcd.png)
+![image](https://github.com/Anandhu-AKR/PIC_Microcontroller_Projects/blob/25e51d4ed4f8d0d27a77d030ea60c847c1ba21d2/PROJECTS/USART-LCD/usat-lcd.png)
 
 ## ⚠️ Limitations
 - Blocking receive — no interrupt used.
